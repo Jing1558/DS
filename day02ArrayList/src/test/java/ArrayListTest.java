@@ -19,5 +19,12 @@ public class ArrayListTest {
         System.out.println(list.toString());
         list.remove(0);
         System.out.println(list.toString());
+        list.add("7");
+        list.add("8");
+        list.add("9");
+        list.add("10");
+        list.add("11");
+        list.add("12");
+        System.out.println(list.toString());
     }
 }

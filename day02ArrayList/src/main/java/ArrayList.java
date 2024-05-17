@@ -73,6 +73,7 @@ public class ArrayList<E> implements List<E> {
         return "ArrayList{" +
                 "elementData=" + Arrays.toString(elementData) +
                 ", size=" + size +
+                ", length=" + elementData.length +
                 '}';
     }
 }
