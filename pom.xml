@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>day01LinkedList</module>
+        <module>day02ArrayList</module>
     </modules>
 
     <properties>
